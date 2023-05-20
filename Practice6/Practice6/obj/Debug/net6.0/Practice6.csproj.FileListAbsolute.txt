@@ -1,0 +1,30 @@
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.csproj.AssemblyReference.cache
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.AssemblyInfoInputs.cache
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.AssemblyInfo.cs
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.csproj.CoreCompileInputs.cache
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.exe
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.deps.json
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.runtimeconfig.json
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.dll
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.pdb
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.dll
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\refint\Practice6.dll
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.pdb
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.genruntimeconfig.cache
+C:\Users\FashionKilla\Desktop\ \П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\ref\Practice6.dll
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.exe
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.deps.json
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.runtimeconfig.json
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.dll
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\bin\Debug\net6.0\Practice6.pdb
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.csproj.AssemblyReference.cache
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.AssemblyInfoInputs.cache
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.AssemblyInfo.cs
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.csproj.CoreCompileInputs.cache
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.dll
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\refint\Practice6.dll
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.pdb
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\Practice6.genruntimeconfig.cache
+C:\Users\FashionKilla\Desktop\f\П.З Основы алгоритмизации и программирования\П.З - 6\Code\Practice6\Practice6\obj\Debug\net6.0\ref\Practice6.dll
